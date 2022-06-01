@@ -1,5 +1,7 @@
 # ddddocrsharp
-ddddocr  c# 版本
+ddddocr  c# 版本 
+
+基于.netcore5.0
 
 基于sml2h3开源的ddddocr构建的c#开源项目。源项目只提供pypi版本，不能满足c#开发者的需求，特此尝试开发本项目。
 
