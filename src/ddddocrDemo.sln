@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ddddocrDemo", "ddddocrDemo\ddddocrDemo.csproj", "{905CEA38-1A45-4DF4-A29A-D1BF70220283}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ddddocrsharp", "ddddocrsharp\ddddocrsharp.csproj", "{515D796E-A515-4C18-8C5C-45A22AC1CD44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{905CEA38-1A45-4DF4-A29A-D1BF70220283}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{905CEA38-1A45-4DF4-A29A-D1BF70220283}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{905CEA38-1A45-4DF4-A29A-D1BF70220283}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{905CEA38-1A45-4DF4-A29A-D1BF70220283}.Release|Any CPU.Build.0 = Release|Any CPU
+		{515D796E-A515-4C18-8C5C-45A22AC1CD44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{515D796E-A515-4C18-8C5C-45A22AC1CD44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{515D796E-A515-4C18-8C5C-45A22AC1CD44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{515D796E-A515-4C18-8C5C-45A22AC1CD44}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8010E2E-B990-48E7-9DD4-4D345B10CD44}
+	EndGlobalSection
+EndGlobal
